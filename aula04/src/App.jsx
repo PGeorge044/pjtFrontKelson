@@ -1,12 +1,14 @@
-import React from 'react'
-import Exercicio1 from './componets/Exercicio1'
+import React from "react";
+import Campanha from "./components/Campanha";
 
-function App() {
+const App = () => {
   return (
     <div>
-      <Exercicio1/>
-      </div>
-  )
-}
+      <Campanha mes="Setembro"/>
+      <Campanha mes="Outubro" />
+      <Campanha mes="Novembro" />
+    </div>
+  );
+};
 
-export default App
+export default App;

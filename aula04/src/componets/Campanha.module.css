@@ -1,0 +1,29 @@
+.Setembro {
+  background-color: rgb(203, 246, 48);
+  color: black;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.Outubro {
+  background-color: rgb(250, 201, 209);
+  color: black;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.Novembro {
+  background-color: blue;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+}

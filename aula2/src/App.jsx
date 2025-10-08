@@ -1,10 +1,10 @@
 import React from 'react'
-import HookContador from './componets/HookContador'
+import HookMegaSena from './componets/HookMegaSena'
 
 const App = () => {
   return (
     <div>
-      <HookContador/>
+      <HookMegaSena/>
     </div>
   )
 }
